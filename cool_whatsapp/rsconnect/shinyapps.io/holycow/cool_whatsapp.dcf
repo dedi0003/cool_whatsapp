@@ -1,0 +1,14 @@
+name: cool_whatsapp
+title: cool_whatsapp
+username:
+account: holycow
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5589973
+bundleId: 5555242
+url: https://holycow.shinyapps.io/cool_whatsapp/
+when: 1644300408.37525
+lastSyncTime: 1644300408.37525
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: emo.pdf

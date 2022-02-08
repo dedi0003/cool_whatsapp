@@ -1,0 +1,14 @@
+name: cool_whatsapp
+title: cool_whatsapp
+username:
+account: vegatroz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5589903
+bundleId: 5548211
+url: https://vegatroz.shinyapps.io/cool_whatsapp/
+when: 1644129164.0986
+lastSyncTime: 1644129164.0986
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: emo.pdf
